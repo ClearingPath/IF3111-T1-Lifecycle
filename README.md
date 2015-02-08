@@ -6,12 +6,12 @@ These are task about android.
 
 ## List of project
 
-### Android Life Cycle
+Android Life Cycle
 
-### Intent Explicit
+Intent Explicit
 
-### Browser filter
+Browser filter
 
-### Image Picker
+Image Picker
 
-### Broadcast Alarm
+Broadcast Alarm
